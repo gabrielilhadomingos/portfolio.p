@@ -1,0 +1,10 @@
+.flex {
+    display: flex;
+    border-style: none;
+    border-color: blue;
+    width: 120px;
+  }
+  .flex img {
+    border-radius: 40px;
+    width: 200px;
+  }
